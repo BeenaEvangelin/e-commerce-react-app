@@ -1,0 +1,11 @@
+.recommended-btns {
+  display: flex;
+  margin-left: 20rem;
+}
+.recommended-title {
+  color: #42013c;
+  margin-left: 20rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 25px;
+}

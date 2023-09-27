@@ -1,0 +1,65 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+  z-index: 999;
+  font-size: 2rem;
+  margin-left: 3rem;
+  border-bottom: 2px solid rgb(255, 254, 254);
+}
+.head-container {
+  font-size: 40px;
+  margin: none;
+  outline: none;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(255, 255, 255);
+  font-style: italic;
+  text-align: center;
+  text-shadow: 20px, 40px;
+  color: rgb(119, 59, 109);
+}
+.nav-icons-head {
+  color: rgb(119, 59, 109);
+  font-size: 55px;
+}
+
+.search-input {
+  color: rgb(5, 0, 34);
+  height: 3rem;
+  width: 70%;
+  border-radius: 30px;
+  font-size: 20px;
+  border-style: double;
+}
+
+.nav-container {
+  width: 50%;
+  margin-left: 10rem;
+}
+
+.nav-icons-search {
+  padding-top: 10px;
+  font-size: 40px;
+  margin-top: 2px;
+  color: rgb(112, 110, 106);
+}
+
+.profile-container {
+  height: 3rem;
+  width: 20%;
+  margin-left: 2rem;
+  margin-right: 5px;
+}
+
+.nav-icons-like {
+  color: rgb(179, 0, 0);
+  margin-right: 20px;
+}
+
+.nav-icons-user {
+  color: rgb(119, 59, 109);
+}
+.nav-icons-cart {
+  margin-right: 20px;
+}

@@ -1,0 +1,12 @@
+.color-title {
+  margin-top: 2rem;
+}
+.color-label-container {
+  padding-left: 15px;
+}
+.color-container {
+  align-items: center;
+}
+.color-icon {
+  color: rgb(233, 203, 160);
+}
